@@ -1,0 +1,101 @@
+/* Estilo para o corpo da página */
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilo para o cabeçalho */
+  header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilo para o título */
+  h1 {
+    font-size: 48px;
+    margin: 0;
+  }
+  
+  /* Estilo para a seção principal */
+  main {
+    margin: 30px auto;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+  #texto {
+    text-align: center;
+  }
+  .tabela {
+    text-align: center;
+    justify-content: center;
+  }
+  #descExercicio{
+    padding: 50px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 10px;
+    border-color:#007bff;
+  }
+  /* Estilo para o formulário */
+  form {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  /* Estilo para as entradas do formulário */
+  input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo para o botão de envio do formulário */
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  /* Estilo para a div do resultado */
+  #resultado {
+    margin-top: 50px;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Estilo para o rodapé */
+  footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    border-top: 5px solid #fff;
+  }
+  #peso{
+    height: 50px;
+    width:200px;
+  }
+  #altura{
+    height: 50px;
+    width:200px;
+  }
+  
